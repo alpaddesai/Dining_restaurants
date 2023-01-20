@@ -1,4 +1,4 @@
-# Dining_restaurants
+# Dining restaurants
 
 Project an overview of dinining and restaurants
 
