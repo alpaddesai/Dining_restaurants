@@ -2,7 +2,7 @@
 
 Project an overview of dinining and restaurants
 
-![image](Dining_Restaurants.jpg)
+![image](DiningRestaurants.jpg)
 
 ![image](AlcholicBeverages.jpg)
 
